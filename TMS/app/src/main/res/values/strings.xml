@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TicketManagementSystem</string>
+    <string name="Event_Name" />
+
+    <string-array name="event_model_full_txt">
+        <item>Untold</item>
+        <item>TIFF</item>
+        <item>Electric Castle</item>
+        <item>Saga</item>
+        <item>Fotbal</item>
+        <item>Wine Festival</item>
+        <item>Tennis</item>
+        <item>Cinema</item>
+    </string-array>
+
+    <string-array name="event_model_venue_txt">
+        <item>Aleea Stadionului 2</item>
+        <item>Cluj-Napoca</item>
+        <item>Bontida</item>
+        <item>Aleea Stadionului 2</item>
+        <item>Parcul Central</item>
+        <item>Opera Nationala Romana Cluj</item>
+        <item>Parcul Central</item>
+        <item>Piata Unirii</item>
+    </string-array>
+
+    <string-array name="event_model_eventType_txt">
+        <item>Festival de muzica</item>
+        <item>Cinema</item>
+        <item>Festival de muzica</item>
+        <item>Meci de fotbal</item>
+        <item>Festival de vin</item>
+        <item>Spectacol de Opera</item>
+        <item>Festiva sportiv</item>
+        <item>Festival</item>
+    </string-array>
+
+</resources>
